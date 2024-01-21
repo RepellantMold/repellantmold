@@ -4,8 +4,12 @@
 
 * [Demozoo](https://demozoo.org/sceners/139679/)
 * [Pouët](https://www.pouet.net/user.php?who=106679)
-* [(Main) Youtube](https://www.youtube.com/channel/UCLeZ09MUJv3Ieyf-F0I7Riw)
+* Youtube
+  * [RepellantMold](https://www.youtube.com/channel/UCLeZ09MUJv3Ieyf-F0I7Riw)
+  * [CraulkEjsh](https://www.youtube.com/channel/UCGq06MV-1hBF4gr3ZASP_GQ)
+  * [Spark3dRemixer](https://www.youtube.com/channel/UCWOhWDgSp1knJkxIFDtBoBA)
 * [Mod Archive](https://modarchive.org/index.php?request=view_profile&query=93600)
+* [My personal website](https://repellantmold.neocities.org/)
 
 ## The questions
 
@@ -19,12 +23,12 @@ Your questions will be answered here!
 7. music composer (2020 - present, currently only interested in using [tracker formats](https://en.wikipedia.org/wiki/Module_file))
 4. animator (2014 - present, using Adobe Animate though currently not interested in finding work)
 
-### What (programming) language do I know?
+### What (programming) languages do I know?
 
 1. C
-2. Motorola 68000 assembly language
+2. Motorola 68000 assembly
 
-I'm not sure what to learn next, it's quite overwhelming...
+Currently unsure on what to learn next...Rust?..
 
 ### How am I?
 
