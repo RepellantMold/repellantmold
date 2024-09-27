@@ -42,3 +42,8 @@ I do alright on most days, thank you for asking!
 ### Why am I?
 
 I don't know, I thought it'd be something that stands out from the norm. :P
+
+### My statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=repellantmold&show_icons=true&hide_title=true&exclude_repo=glad-opengl-3.2&theme=material-palenight)&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=repellantmold&layout=compact&vst-datamosher&theme=material-palenight)](https://github.com/repellantmold)
